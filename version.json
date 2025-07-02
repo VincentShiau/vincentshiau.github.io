@@ -4,7 +4,7 @@
     "forceUpdate": true
   },
   "ios": {
-    "latest": "1.0.8",
+    "latest": "1.0.7",
     "forceUpdate": false
   }
 }
