@@ -6,5 +6,9 @@
   "ios": {
     "latest": "1.0.7",
     "forceUpdate": false
+  },
+  "option": {
+    "w3": "07W4",
+    "w5": "07F4"
   }
 }
