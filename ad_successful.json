@@ -1,1 +1,31 @@
-
+{
+  "msg": "",
+  "rc2": "M000",
+  "result": {
+    "data": {
+      "logonCount": "421",
+      "badPasswordTime": "134047909001531938",
+      "physicalDeliveryOfficeName": "600",
+      "whenCreated": "20160120064204.0Z",
+      "mail": "XXX",
+      "sAMAccountName": "1041380",
+      "displayName": "XXX",
+      "accountExpires": "0",
+      "distinguishedName": "CN=XXX,OU=600_XXX,OU=UB-User,DC=ub,DC=tw",
+      "cn": "XXX",
+      "title": "B031",
+      "whenChanged": "20251020074311.0Z",
+      "sAMAccountType": "805306368",
+      "primaryGroupID": "513",
+      "adminCount": "1",
+      "name": "XXX",
+      "lockoutTime": "0",
+      "userPrincipalName": "XXX",
+      "pwdLastSet": "134023712576793255",
+      "lastLogon": "134054814441500339",
+      "badPwdCount": "0"
+    }
+  },
+  "rc": "M000",
+  "msg2": ""
+}
