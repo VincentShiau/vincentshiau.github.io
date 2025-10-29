@@ -1,0 +1,366 @@
+[
+    {
+        "brhId": "004",
+        "brhName": "台中分行"
+    },
+    {
+        "brhId": "005",
+        "brhName": "南京東路分行"
+    },
+    {
+        "brhId": "006",
+        "brhName": "中壢分行"
+    },
+    {
+        "brhId": "007",
+        "brhName": "三重分行"
+    },
+    {
+        "brhId": "010",
+        "brhName": "高雄分行"
+    },
+    {
+        "brhId": "011",
+        "brhName": "板橋分行"
+    },
+    {
+        "brhId": "012",
+        "brhName": "台南分行"
+    },
+    {
+        "brhId": "013",
+        "brhName": "員林分行"
+    },
+    {
+        "brhId": "015",
+        "brhName": "仁愛分行"
+    },
+    {
+        "brhId": "016",
+        "brhName": "南崁分行"
+    },
+    {
+        "brhId": "017",
+        "brhName": "新竹分行"
+    },
+    {
+        "brhId": "018",
+        "brhName": "蘆洲分行"
+    },
+    {
+        "brhId": "020",
+        "brhName": "九如分行"
+    },
+    {
+        "brhId": "021",
+        "brhName": "雙和分行"
+    },
+    {
+        "brhId": "022",
+        "brhName": "迴龍分行"
+    },
+    {
+        "brhId": "023",
+        "brhName": "嘉義分行"
+    },
+    {
+        "brhId": "024",
+        "brhName": "公館分行"
+    },
+    {
+        "brhId": "025",
+        "brhName": "內壢分行"
+    },
+    {
+        "brhId": "026",
+        "brhName": "忠孝分行"
+    },
+    {
+        "brhId": "027",
+        "brhName": "新莊分行"
+    },
+    {
+        "brhId": "028",
+        "brhName": "鳳山分行"
+    },
+    {
+        "brhId": "029",
+        "brhName": "桃鶯分行"
+    },
+    {
+        "brhId": "030",
+        "brhName": "龍潭分行"
+    },
+    {
+        "brhId": "031",
+        "brhName": "新店分行"
+    },
+    {
+        "brhId": "032",
+        "brhName": "大直分行"
+    },
+    {
+        "brhId": "033",
+        "brhName": "中山分行"
+    },
+    {
+        "brhId": "034",
+        "brhName": "文心分行"
+    },
+    {
+        "brhId": "035",
+        "brhName": "健行分行"
+    },
+    {
+        "brhId": "036",
+        "brhName": "中和分行"
+    },
+    {
+        "brhId": "037",
+        "brhName": "內湖分行"
+    },
+    {
+        "brhId": "038",
+        "brhName": "大園分行"
+    },
+    {
+        "brhId": "039",
+        "brhName": "永和分行"
+    },
+    {
+        "brhId": "040",
+        "brhName": "中港分行"
+    },
+    {
+        "brhId": "041",
+        "brhName": "通化簡易型分行"
+    },
+    {
+        "brhId": "042",
+        "brhName": "士東分行"
+    },
+    {
+        "brhId": "043",
+        "brhName": "微風簡易型分行"
+    },
+    {
+        "brhId": "044",
+        "brhName": "長春分行"
+    },
+    {
+        "brhId": "045",
+        "brhName": "松江分行"
+    },
+    {
+        "brhId": "046",
+        "brhName": "大安分行"
+    },
+    {
+        "brhId": "047",
+        "brhName": "永吉分行"
+    },
+    {
+        "brhId": "048",
+        "brhName": "文林分行"
+    },
+    {
+        "brhId": "049",
+        "brhName": "東門分行"
+    },
+    {
+        "brhId": "051",
+        "brhName": "西湖分行"
+    },
+    {
+        "brhId": "052",
+        "brhName": "北投簡易型分行"
+    },
+    {
+        "brhId": "054",
+        "brhName": "後埔分行"
+    },
+    {
+        "brhId": "055",
+        "brhName": "北中和分行"
+    },
+    {
+        "brhId": "056",
+        "brhName": "富國分行"
+    },
+    {
+        "brhId": "057",
+        "brhName": "樹林分行"
+    },
+    {
+        "brhId": "058",
+        "brhName": "汐止分行"
+    },
+    {
+        "brhId": "059",
+        "brhName": "北桃園分行"
+    },
+    {
+        "brhId": "060",
+        "brhName": "北中壢分行"
+    },
+    {
+        "brhId": "061",
+        "brhName": "北台中分行"
+    },
+    {
+        "brhId": "062",
+        "brhName": "民權分行"
+    },
+    {
+        "brhId": "063",
+        "brhName": "西屯分行"
+    },
+    {
+        "brhId": "064",
+        "brhName": "興中分行"
+    },
+    {
+        "brhId": "065",
+        "brhName": "北屯分行"
+    },
+    {
+        "brhId": "068",
+        "brhName": "府城分行"
+    },
+    {
+        "brhId": "069",
+        "brhName": "豐原分行"
+    },
+    {
+        "brhId": "070",
+        "brhName": "富強分行"
+    },
+    {
+        "brhId": "071",
+        "brhName": "開元分行"
+    },
+    {
+        "brhId": "072",
+        "brhName": "南台南分行"
+    },
+    {
+        "brhId": "073",
+        "brhName": "苓雅分行"
+    },
+    {
+        "brhId": "074",
+        "brhName": "北高雄分行"
+    },
+    {
+        "brhId": "075",
+        "brhName": "三民分行"
+    },
+    {
+        "brhId": "076",
+        "brhName": "五甲分行"
+    },
+    {
+        "brhId": "077",
+        "brhName": "屏東分行"
+    },
+    {
+        "brhId": "078",
+        "brhName": "和平分行"
+    },
+    {
+        "brhId": "079",
+        "brhName": "永春分行"
+    },
+    {
+        "brhId": "080",
+        "brhName": "田心分行"
+    },
+    {
+        "brhId": "081",
+        "brhName": "安康分行"
+    },
+    {
+        "brhId": "082",
+        "brhName": "大竹分行"
+    },
+    {
+        "brhId": "083",
+        "brhName": "龜山分行"
+    },
+    {
+        "brhId": "084",
+        "brhName": "林口分行"
+    },
+    {
+        "brhId": "085",
+        "brhName": "五股分行"
+    },
+    {
+        "brhId": "086",
+        "brhName": "高榮分行"
+    },
+    {
+        "brhId": "087",
+        "brhName": "大業分行"
+    },
+    {
+        "brhId": "088",
+        "brhName": "蘆竹分行"
+    },
+    {
+        "brhId": "089",
+        "brhName": "土城分行"
+    },
+    {
+        "brhId": "090",
+        "brhName": "南桃園分行"
+    },
+    {
+        "brhId": "091",
+        "brhName": "集賢分行"
+    },
+    {
+        "brhId": "092",
+        "brhName": "三峽分行"
+    },
+    {
+        "brhId": "093",
+        "brhName": "東湖分行"
+    },
+    {
+        "brhId": "094",
+        "brhName": "淡水簡易型分行"
+    },
+    {
+        "brhId": "095",
+        "brhName": "金城分行"
+    },
+    {
+        "brhId": "096",
+        "brhName": "南港分行"
+    },
+    {
+        "brhId": "097",
+        "brhName": "竹北分行"
+    },
+    {
+        "brhId": "009",
+        "brhName": "東台北分行"
+    },
+    {
+        "brhId": "002",
+        "brhName": "營業部"
+    },
+    {
+        "brhId": "600",
+        "brhName": "資訊部"
+    },
+    {
+        "brhId": "001",
+        "brhName": "台北分行"
+    },
+    {
+        "brhId": "003",
+        "brhName": "桃園分行"
+    }
+]
