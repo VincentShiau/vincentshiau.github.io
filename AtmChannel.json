@@ -14,5 +14,9 @@
     {
         "wsidGuard": "分行ATM",
         "wsidCount": "1"
+    },
+    {
+        "wsidGuard": "qqq",
+        "wsidCount": "999"
     }
 ]
