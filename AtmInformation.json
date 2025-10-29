@@ -1,0 +1,50 @@
+[
+    {
+        "wsidAtmid": "00185 ",
+        "wsidBranch": "001",
+        "wsidBrand": "NCR",
+        "wsidFunc2": "E",
+        "wsidFunc3": "P",
+        "wsidFunc4": "Y",
+        "wsidGuard": "03",
+        "wsidLend": "N",
+        "wsidOpen": "20251015",
+        "wsidType": "SS21"
+    },
+    {
+        "wsidAtmid": "00195 ",
+        "wsidBranch": "001",
+        "wsidBrand": "HTC",
+        "wsidFunc2": "C",
+        "wsidFunc3": "N",
+        "wsidFunc4": "Y",
+        "wsidGuard": "01",
+        "wsidLend": "N",
+        "wsidOpen": "20251016",
+        "wsidType": "2845VS"
+    },
+    {
+        "wsidAtmid": "09681 ",
+        "wsidBranch": "096",
+        "wsidBrand": "NCR",
+        "wsidFunc2": "C",
+        "wsidFunc3": "N",
+        "wsidFunc4": "N",
+        "wsidGuard": "02",
+        "wsidLend": "N",
+        "wsidOpen": "20251016",
+        "wsidType": "6631"
+    },
+    {
+        "wsidAtmid": "92001 ",
+        "wsidBranch": "999",
+        "wsidBrand": "NCR",
+        "wsidFunc2": "C",
+        "wsidFunc3": "N",
+        "wsidFunc4": "Y",
+        "wsidGuard": "07",
+        "wsidLend": "N",
+        "wsidOpen": "20251015",
+        "wsidType": "6622E"
+    }
+]
