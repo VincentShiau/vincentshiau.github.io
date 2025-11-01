@@ -1,44 +1,44 @@
 [
     {
         "type": "OPC",
-        "date": "2025/11/01"
-        "time": "08:00"
-        "flow": "FROM FISC"
+        "date": "2025/11/01",
+        "time": "08:00",
+        "flow": "FROM FISC",
         "message": "Test message 1...."
     },
     {
         "type": "OPC",
-        "date": "2025/11/01"
-        "time": "08:01"
-        "flow": "TO FISC"
+        "date": "2025/11/01",
+        "time": "08:01",
+        "flow": "TO FISC",
         "message": "Test message 2...."
     },
     {
         "type": "ATM",
-        "date": "2025/11/01"
-        "time": "08:00"
-        "flow": "FROM FISC"
+        "date": "2025/11/01",
+        "time": "08:00",
+        "flow": "FROM FISC",
         "message": "Test message 1...."
     },
     {
         "type": "ATM",
-        "date": "2025/11/01"
-        "time": "08:01"
-        "flow": "TO FISC"
+        "date": "2025/11/01",
+        "time": "08:01",
+        "flow": "TO FISC",
         "message": "Test message 2...."
     },
     {
         "type": "RM",
-        "date": "2025/11/01"
-        "time": "08:00"
-        "flow": "FROM FISC"
+        "date": "2025/11/01",
+        "time": "08:00",
+        "flow": "FROM FISC",
         "message": "Test message 1...."
     },
     {
         "type": "RM",
-        "date": "2025/11/01"
-        "time": "08:01"
-        "flow": "TO FISC"
+        "date": "2025/11/01",
+        "time": "08:01",
+        "flow": "TO FISC",
         "message": "Test message 2...."
     }
 ]
