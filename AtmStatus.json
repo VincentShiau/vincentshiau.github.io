@@ -1,6 +1,6 @@
 [
   {
-    "atmVer": 251001,
+    "atmVer": "251001",
     "wsidAtmid": "00184",
     "wsidDevice1": "正常",
     "wsidDevice2": "正常",
@@ -13,8 +13,8 @@
     "wsidDevice9": "正常",
     "wsidHundred": 0,
     "wsidMsg": "0100000000000004",
-    "wsidRespDate": 20251107,
-    "wsidRespTime": 160211,
+    "wsidRespDate": "20251107",
+    "wsidRespTime": "160211",
     "wsidStatus": "正常營業",
     "wsidThousand": 0,
     "wsidThreshold1": "正常",
@@ -28,7 +28,7 @@
     "wsidThreshold9": "正常"
   },
   {
-    "atmVer": 251001,
+    "atmVer": "251001",
     "wsidAtmid": "00195",
     "wsidDevice1": "正常",
     "wsidDevice2": "正常",
@@ -41,8 +41,8 @@
     "wsidDevice9": "正常",
     "wsidHundred": 500,
     "wsidMsg": "0100000000000004",
-    "wsidRespDate": 20251111,
-    "wsidRespTime": 173743,
+    "wsidRespDate": "20251111",
+    "wsidRespTime": "173743",
     "wsidStatus": "正常營業",
     "wsidThousand": 491,
     "wsidThreshold1": "正常",
