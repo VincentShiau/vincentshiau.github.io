@@ -1,10 +1,10 @@
 {
   "android": {
-    "latest": "1.0.17",
+    "latest": "1.0.18",
     "forceUpdate": false
   },
   "ios": {
-    "latest": "1.0.11",
+    "latest": "1.0.17",
     "forceUpdate": false
   },
   "option": {
